@@ -1,0 +1,8 @@
+{
+  "name": " EcoReg CD — Registro Interno de Residuos Sólidos",
+  "description": "Sistema de gestión, control diario, firma digital y fiscalización del Registro Interno de Manejo de Residuos Sólidos de la Construcción y Demolición conforme a normativa vigente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
